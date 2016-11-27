@@ -1,0 +1,17 @@
+{
+  "name": "ffmpeg-screen",
+  "version": "1.2.0",
+  "description": "Take Screenshot for ffmpeg.",
+  "main": "index.js",
+  "keywords": [],
+  "author": "#Just team",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.5"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nairicode/ffmpeg-screen.git"
+  }
+}
