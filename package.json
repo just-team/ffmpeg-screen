@@ -1,6 +1,6 @@
 {
   "name": "ffmpeg-screen",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Take Screenshot for ffmpeg.",
   "main": "index.js",
   "keywords": [],
@@ -12,6 +12,6 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/nairicode/ffmpeg-screen.git"
+    "url": "https://github.com/just-team/ffmpeg-screen.git"
   }
 }
